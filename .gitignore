@@ -1,3 +1,6 @@
 __azurite*
 __blobstorage__
 __queuestorage__
+
+.vscode
+.DS_Store
