@@ -9,6 +9,12 @@ A set of challenges/tasks to help you learn Azure.
 - [Azurite extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
 - An active Azure subscription
 
-## Table of contents
+## List of Challenges
 
 - [1. Mining Resources](1-Mining-Resources/challenge.md)
+- [2. Accounting Dashboard](2-Accounting/challenge.md)
+
+## Solutions
+
+- [1. Mining Resources](1-Mining-Resources/Solution/solution.md)
+- [2. Accounting Dashboard](2-Accounting/Solution/solution.md)
