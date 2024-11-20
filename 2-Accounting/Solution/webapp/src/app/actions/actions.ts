@@ -6,7 +6,8 @@ import { Resources } from "../models/Resources";
 export async function getResources() {
   try {
     const fetchResources = await fetch(
-      `${process.env.API_HOST}/api/GetResources`
+      `${process.env.API_HOST}/api/GetResources`,
+      { cache: "no-store" }
     );
 
     const resources = (await fetchResources.json()) as Resources;
