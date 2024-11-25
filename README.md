@@ -19,3 +19,4 @@ A set of challenges/tasks to help you learn Azure.
 
 - [1. Mining Resources](1-Mining-Resources/Solution/solution.md)
 - [2. Accounting Dashboard](2-Accounting/Solution/solution.md)
+- [3. Robot Factory](3-Robot-Factory/Solution/solution.md)
